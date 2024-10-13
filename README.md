@@ -5,5 +5,5 @@ Fully responsive Flappy Game made by Html, CSS and JavaScript
 https://ankan-b10.github.io/FlappyBird-Game/
 
 
-Thank you for playing...
-Please give feedbacks 
+Thank you for playing... <br><br>
+Please give feedbacks 😊
